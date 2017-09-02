@@ -53,6 +53,5 @@ The size is very similar to the anchor or slightly smaller. For the amount of co
 
 ### Conclusion
 
-**Not excellent** but **not Terrible**.
-Hardware built quality is not very impressive and power cables are very questionable but it can be easily replacable with very common AC-to-5v mini usb adapter.
+Hardware built quality is not very impressive and the design of power supply is highly questionable though it can be easily replacable with very common AC-to-5v mini usb adapter, if necessary.
 ![](img/ac.png)
