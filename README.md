@@ -1,4 +1,6 @@
-##Main Features of Pozyx
+
+
+## Main Features of Pozyx
 
 
 *Pozyx is a hardware solution that provides accurate positioning and motion information. It can be used as an Arduino shield.*
@@ -12,3 +14,10 @@
 - The time for delivery was around 10 days. It took a relatively long time to ship the product after the order. 
 
 [Pozyx Website](https://www.pozyx.io)
+
+
+## Hardware Review
+[Go to page](Hardware.md)
+
+## Test in a space and its result
+[Go to page](Test.md)
