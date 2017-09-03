@@ -30,7 +30,7 @@ You can watch a video of the test.
 #### Data Deviation without movement
 
 I sample 450+ data (x position) without movement
-[See data](static_data.txt)
+[See data](static_point.txt)
 
 #### Sonification
 With a simple max patch the position data is mapped to the frequency of  a sawtooth.
