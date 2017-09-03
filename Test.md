@@ -24,7 +24,13 @@ The Pozyx Tag requires a power (USB +5v), so I put both my laptop and pozyx on a
 #### Video of the experiement
 
 You can watch a video of the test.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ONqaNxJDlQM/0.jpg)](https://www.youtube.com/watch?v=ONqaNxJDlQM)
+
+#### Data Deviation without movement
+
+I sample 450+ data (x position) without movement
+[See data](static_data.txt)
 
 #### Sonification
 With a simple max patch the position data is mapped to the frequency of  a sawtooth.
