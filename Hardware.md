@@ -12,8 +12,8 @@ this is the pozyx anchor with a lid.
 ![](img/lid.jpg)
 
 
-the side of the case. It has 1x micro USB jack and 1x power jack.
-It might be possible to provide power to the anchor with micro USB cable. However, the description is not provided on the website(+5v).
+The side of the case. It has 1x micro USB jack and 1x power jack.
+It is possible to provide power to the anchor with micro USB cable. 
 ![](img/side.jpg)
 
 A sticker on the other side cleary shows its serial number.
@@ -22,11 +22,10 @@ A sticker on the other side cleary shows its serial number.
 The size comparison between a credit card and an anchor.
 ![](img/size.jpg)
 
-The company provides also a magic sticker and a cable for each anchor.
-![](img/magic.jpg)
+Strange USB to power cable. Presumably, the company tried to avoid providing batteries and DC adapters. However USB cable has a range limitation (officially 5 meters) and might require an extension with power booster if we extend USB cable.
 ![](img/cable.jpg)
 
-This cable is strange as a design. Presumably, the company tried to avoid providing batteries and DC adapters. However USB cable has a range limitation (officially 5 meters) and might require an extension with power booster if we extend USB cable.
+
 
 [Article about USB extension](http://www.yourcablestore.com/USB-Cable-Length-Limitations-And-How-To-Break-Them_ep_42-1.html)
 
@@ -53,5 +52,5 @@ The size is very similar to the anchor or slightly smaller. For the amount of co
 
 ### Conclusion
 
-Hardware built quality is not very impressive and the design of power supply is highly questionable though it can be easily replacable with very common AC-to-5v mini usb adapter, if necessary.
+Hardware built quality is not very impressive and the design of power supply is questionable though it can be easily replacable with very common AC-to-5v mini usb adapter, if necessary.
 ![](img/ac.png)
