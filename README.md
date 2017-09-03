@@ -1,6 +1,6 @@
 
 
-##Main Features of Pozyx
+#Main Features of Pozyx
 
 *Pozyx is a hardware solution that provides accurate positioning and motion information. It can be used as an Arduino shield.*
 
