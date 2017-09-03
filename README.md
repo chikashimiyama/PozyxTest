@@ -11,7 +11,6 @@
 - It can be used with or without Arduino. Open Source Python API and Arduino API are available on Github.
 - The cost of pozyx is acceptable; 5 tags + 4 anchors = 1000 euros. this is extremely cheap compared to UbiSense.
 - The Pozyx Tag comes with a very good accelerometers and gyro. 
-- The time for delivery was around 10 days. It took a relatively long time to ship the product after the order. 
 
 [Pozyx Website](https://www.pozyx.io)
 
